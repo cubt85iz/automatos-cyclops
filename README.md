@@ -1,4 +1,4 @@
-# Automatos (Daedalus)
+# Automatos (Cyclops)
 
 Custom image based on UBlue OS Silverblue with Nvidia drivers. Includes dotfiles, repos, and software for desktop.
 

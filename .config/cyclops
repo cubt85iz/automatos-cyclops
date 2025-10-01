@@ -24,6 +24,7 @@
       "libheif",
       "lshw",
       "net-tools",
+      "https://proton.me/download/mail/linux/ProtonMail-desktop-beta.rpm",
       "steam-devices",
       "tmux",
       "unrar",

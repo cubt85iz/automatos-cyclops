@@ -54,8 +54,7 @@ jobs:
             ${{ github.event.repository.name }}
           labels: |
             io.artifacthub.package.readme-url=https://raw.githubusercontent.com/cubt85iz/${{ github.event.repository.name }}/main/README.md
-            org.opencontainers.image.description="${{ env.DESCRIPTION }}"
-            org.opencontainers.image.source = "https://github.com/cubt85iz/automatos-cyclops"
+            org.opencontainers.image.description=${{ env.DESCRIPTION }}
             org.opencontainers.image.title=${{ github.event.repository.name }}
             org.opencontainers.image.version=${{ env.DATE }}
 

@@ -23,6 +23,7 @@
       "just",
       "libavcodec",
       "libheif",
+      "libmediainfo",
       "lshw",
       "net-tools",
       "https://proton.me/download/mail/linux/ProtonMail-desktop-beta.rpm",

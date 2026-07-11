@@ -15,6 +15,7 @@
       "ffmpegthumbnailer",
       "fira-code-fonts",
       "flatpak-spawn",
+      "fuse-libs",
       "fuse-sshfs",
       "gvfs-nfs",
       "heif-pixbuf-loader",
